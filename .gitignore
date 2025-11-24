@@ -1,0 +1,8 @@
+# Ignorar carpetas internas de Visual Studio que causan errores de permiso
+.vs/
+# Ignorar resultados de compilación
+[Bb]in/
+[Oo]bj/
+# Ignorar archivos temporales
+*.suo
+*.user
